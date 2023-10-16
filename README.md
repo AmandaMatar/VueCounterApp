@@ -24,6 +24,9 @@
 
  Acesse o terceiro projeto [VueCounterApp2](https://github.com/AmandaMatar/VueCounterApp2) para ver o desenvolvimento usando totalmente o Vue 3.
 
+ <br>
+ <br>
+
 > [!IMPORTANT]
 > Esse material serve como portifólio de estudos.
 
